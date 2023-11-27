@@ -1,0 +1,42 @@
+.bg-body-tertiary {
+  /* background-color: #e5b85f !important; */
+  background: linear-gradient(96deg, rgb(234, 218, 0) 0%, rgb(214, 144, 3) 60%);
+}
+.nav-link:hover {
+  background-color: #010203 !important;
+  color: #e5b85f !important;
+  border-radius: 10px;
+}
+
+.inclusion {
+  background-color: #e5f4f3;
+}
+
+.btn-primary {
+  background-color: #02928a;
+  border-color: #02928a;
+}
+
+.btn-primary:hover {
+  background-color: #e5f4f3;
+  color: black;
+  border-color: #e5f4f3;
+}
+
+.jumbotron .container-fluid {
+  background: linear-gradient(
+    155deg,
+    rgba(59, 158, 117, 1) 0%,
+    rgba(31, 63, 68, 1) 60%
+  );
+  color: white;
+  text-shadow: 3px 4px 1px black;
+}
+
+.card {
+  border-color: #e5b85f;
+}
+
+section.welcome .card {
+  box-shadow: 1px 0px 6px black;
+}
